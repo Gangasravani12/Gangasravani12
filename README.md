@@ -45,17 +45,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Gangasravani12&show_icons=true&theme=radical" width="400" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gangasravani12&theme=radical" width="400"/>
 </p>
-
+ 
 ---
 
 ### 📫 Connect with Me
 
-- 💼 GitHub: [github.com/your-github-username](https://github.com/your-github-username)  
-- 📷 Instagram: [instagram.com/your-instagram-handle](https://instagram.com/your-instagram-handle)  
-- 📩 Email: your.email@example.com  
+- 💼 GitHub: [github.com/your-github-username](http://github.com/Gangasravani12/)  
+- 📷 LinkedIn: [instagram.com/your-instagram-handle](https://www.linkedin.com/in/ganga-sravani/)  
+- 📩 Email: gangasravani12@gmail.com  
 
 ---
 
