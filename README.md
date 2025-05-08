@@ -53,8 +53,8 @@
 
 ### 📫 Connect with Me
 
-- 💼 GitHub: [github.com/your-github-username](http://github.com/Gangasravani12/)  
-- 📷 LinkedIn: [instagram.com/your-instagram-handle](https://www.linkedin.com/in/ganga-sravani/)  
+- 💼 GitHub: [My Github profile](http://github.com/Gangasravani12/)  
+- 📷 LinkedIn: [My linkedIn profile](https://www.linkedin.com/in/ganga-sravani/)  
 - 📩 Email: gangasravani12@gmail.com  
 
 ---
