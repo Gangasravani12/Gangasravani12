@@ -1,42 +1,62 @@
-# 👋 hi, I'm sravani!
+<h1 align="center">Hi 👋, I'm Sravani</h1>
+<h3 align="center">Java Full Stack Developer | Spring Boot | ReactJS | Video Creator</h3>
 
-🌟 **About me :**
+---
 
- -- I'm an enthusiastic final-year B.Tech student majoring in Electronics and Communication Engineering (ECE). 🎓 Currently honing my skills to elevate myself both professionally and personally!
- 
- -- 💼 As a dedicated learner,I'm engaged in hands-on projects,applying my knowledge to real-world scenarios. My focus lies in web development, where I'm proficient in HTML, CSS, JavaScript, and the MERN stack!
- -- 🚀 Excited about the journey ahead as I delve into the realm of UI/UX design to enhance user experiences!
- 
- -- 🔍 Actively seeking opportunities to leverage my skills and contribute to impactful projects!
- 
- -- 💻 Passionate about staying at the forefront of technology, I'm committed to continuous improvement and innovation!
- 
- -- 🎬 On the creative side, I enjoy video editing, bringing ideas to life through multimedia. 🎨 Additionally, I'm refining my typing skills for optimal efficiency!
+### 🌟 About Me
 
- 🛠️ **Tech Stack :** 
+🎓 I'm a **B.Tech graduate in Electronics and Communication Engineering**  
+💻 Completed intensive **Java Full Stack Developer** training at **ExcelR Edutech**  
+🚀 Passionate about building real-world applications with clean code and scalable architecture  
+🎬 I also love **editing videos** and regularly share my creative work on **Instagram**
 
- -- 💻 Languages: HTML, CSS, JavaScript
- 
- -- 🌐 Web Development: MERN Stack (MongoDB, Express.js, React, Node.js)
- 
- -- 🎨 UI/UX Design: Currently exploring and learning
- 
- -- 🎬 Multimedia: Video Editing 
- 
- -- 🖋️ Skills: Typing Practice
+---
 
-🚀 **Current Projects:** 
+### 🛠 Tech Stack
 
- -- Mastering HTML, CSS, and JavaScript through frontend challenges and diving into real-world web development scenarios in the 90mProjects Challenge. 🖥️💡
+- **Languages:** Java, JavaScript, HTML, CSS  
+- **Backend:** Spring Boot, Servlets, JSP, JDBC  
+- **Frontend:** ReactJS  
+- **Database:** MySQL  
+- **Architecture & APIs:** Microservices, REST API, MVC  
+- **Frameworks:** Spring Cloud, Hibernate  
+- **Other Skills:** Git & GitHub, Typing Practice, Video Editing
 
- -- Undertaking the 100 Days Web Dev Challenge, exploring the MERN stack, UI/UX design, and enhancing data structures and algorithms skills in Python. Concurrently, passionate about crafting visual stories through video editing and refining typing efficiency. 
+---
 
- 🤝 **Let's connect :**
- 
-   -- 🌐 Let's connect and make our virtual worlds collide! Drop me a message on GitHub! 
-   
-   -- 🚀✉️ Fun fact: I'm on a mission to watch every classic movie ever made. Share your favorites when you message me! 🎬🍿
+### 💼 Projects
 
-  **"Crafting Code, Building Bridges: Let's Connect and Create Digital Magic!"**
+#### 💊 Online Hospital Management System  
+⚙️ *Microservices | Spring Boot | Spring Cloud | ReactJS*  
+🔹 Developed a full-stack web application with RESTful APIs  
+🔹 Features: Patient registration, appointment booking, doctor & admin panels  
+🔹 Tools: Eureka Server, Spring Data JPA, ReactJS with Axios
 
+#### 💰 Financial Management System  
+🧮 *JSP | HTML | CSS | SQL*  
+🔹 Designed a personal finance tracker for managing income and expenses  
+🔹 Technologies: JSP for logic, MySQL for data storage, styled with custom CSS
 
+#### 🎬 Instagram Video Edits  
+🎥 I edit and post engaging video content like lyrics, movie dialogues, and trending reels on **Instagram**, merging tech with creativity.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" width="400"/>
+</p>
+
+---
+
+### 📫 Connect with Me
+
+- 💼 GitHub: [github.com/your-github-username](https://github.com/your-github-username)  
+- 📷 Instagram: [instagram.com/your-instagram-handle](https://instagram.com/your-instagram-handle)  
+- 📩 Email: your.email@example.com  
+
+---
+
+<h3 align="center">“Crafting Code, Creating Impact.” 🚀</h3>
